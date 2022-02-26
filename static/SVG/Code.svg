@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 479.25 475.76">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #082833;
+                stroke: #000;
+                stroke-miterlimit: 10;
+            }
+
+            .cls-2 {
+                fill: #18495e;
+            }
+        </style>
+    </defs>
+    <g id="Capa_7" data-name="Capa 7">
+        <g id="Capa_4" data-name="Capa 4">
+            <path class="cls-1"
+                d="M63.27,116.86c-4.36,11-67.17,174.91,2.55,236.06C75,361,92,372,198.52,374.61c132.66,3.2,199,4.8,224.57-26.8,46.19-57.05,18.84-176.6-45.94-219.46a106,106,0,0,0-26.79-12.76c-89.7-28.83-217.14-12.69-286.81,1" />
+        </g>
+        <g id="Capa_6" data-name="Capa 6">
+            <g id="Capa_5" data-name="Capa 5">
+                <ellipse class="cls-2" cx="215.33" cy="148.26" rx="147.73" ry="4.25" />
+                <ellipse class="cls-2" cx="159.63" cy="172.22" rx="92.03" ry="4.39" />
+                <ellipse class="cls-2" cx="224.55" cy="195.05" rx="149.57" ry="3.97" />
+                <ellipse class="cls-2" cx="152.53" cy="223.78" rx="77.55" ry="3.22" />
+                <ellipse class="cls-2" cx="230.08" cy="251.48" rx="199.33" ry="3.69" />
+                <ellipse class="cls-2" cx="94.23" cy="275.58" rx="57.28" ry="2.84" />
+                <ellipse class="cls-2" cx="151.53" cy="301.95" rx="54.44" ry="3.69" />
+                <ellipse class="cls-2" cx="97.66" cy="320.09" rx="47.07" ry="4.82" />
+                <ellipse class="cls-2" cx="341.37" cy="310.74" rx="6.81" ry="41.26" />
+                <ellipse class="cls-2" cx="390.28" cy="282.03" rx="27.22" ry="3.62" />
+                <ellipse class="cls-2" cx="393.05" cy="306.34" rx="24.46" ry="4.39" />
+            </g>
+        </g>
+    </g>
+</svg>
