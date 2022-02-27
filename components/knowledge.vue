@@ -76,7 +76,6 @@ export default {
 };
 </script>
 <style>
-@import url("http://fonts.cdnfonts.com/css/5th-grade-cursive");
 .font-cursive {
   font-family: "5th Grade Cursive", sans-serif;
 }

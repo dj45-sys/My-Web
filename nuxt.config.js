@@ -12,7 +12,9 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      {rel: "stylesheet", href: 'http://fonts.cdnfonts.com/css/5th-grade-cursive'},
+      {rel: "stylesheet", href: 'https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&display=swap'}
     ]
   },
 

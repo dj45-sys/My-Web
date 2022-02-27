@@ -12,7 +12,6 @@ export default {
 };
 </script>
 <style>
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&display=swap");
 .font-roboto {
   font-family: "Roboto Mono", monospace;
 }
